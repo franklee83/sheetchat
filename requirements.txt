@@ -1,0 +1,7 @@
+streamlit==1.56.0
+streamlit-chat==0.1.1
+pandas==2.3.3
+openpyxl==3.1.5
+openai==2.30.0
+python-dotenv==1.2.2
+tabulate==0.10.0

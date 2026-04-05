@@ -1,0 +1,12 @@
+.env
+.codex
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+.DS_Store
+.streamlit/
+
+# Local data artifacts
+data/
