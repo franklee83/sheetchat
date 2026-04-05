@@ -6,9 +6,11 @@
 
 ## 截图预览
 
-将应用截图保存到 `docs/images/sheetchat-home.png` 后，README 会自动显示：
+截图文件路径：
 
-![sheetchat screenshot](docs/images/sheetchat-home.png)
+`docs/images/sheetchat_snapshot.png`
+
+![sheetchat screenshot](docs/images/sheetchat_snapshot.png)
 
 ## 特性
 
